@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	pref "preferences"
+	pref "./preferences"
 )
 
 // desk 에서 사용하는 
@@ -14,7 +14,7 @@ func system_print_string(before string) string {
 func shutdown(){
 	fmt.Println(system_print_string(pref.GOING_SHUTDOWN_MESSAGE))
 }
-
+//test
 func main(){
 	var path string
 	// var _ n int
