@@ -4,7 +4,7 @@ import (
 	"fmt"
 	pre "github.com/SSUHan/going/preferences"
 )
-//
+//idea제외test
 // desk 에서 사용하는 
 func system_print_string(before string) string {
 	return "\t\t\t>>>> "+before+" <<<<<\t\t\t"
