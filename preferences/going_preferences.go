@@ -1,4 +1,4 @@
-package main
+package preferences
 // Define Booting Message 
 var GOING_START_BOOT_MESSAGE string = "Going Server Start Boot"
 var GOING_BOOTING_MESSAGE string = "Going Server Booting..."
